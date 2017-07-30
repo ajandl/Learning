@@ -1,4 +1,8 @@
-"""Starting the file with a docstring."""
+"""
+Starting the file with a docstring.
+
+Adding a new comment to test git.
+"""
 
 import random
 
